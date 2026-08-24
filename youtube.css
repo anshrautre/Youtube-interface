@@ -5,7 +5,6 @@ body{
 }
 
 nav{
-	background-color:yellow;
 	padding:1%;
 	box-sizing:border-box;
 	color:white
@@ -13,14 +12,127 @@ nav{
 }
 
 .icon{
-	font-size:22px;
-	margin:0% 0% 0% 0.8%;
-	display:inline-block
+	font-size:24px;
+	margin:0.3% 0% 0% 0.6%;
+	display:inline-block;
+	vertical-align:top
 }
 
 .logo{
-	font-size:22px;
-	margin:0% 0% 0% 0.8%;
+	font-size:32px;
+	margin:0% 0% 0% 1%;
 	display:inline-block;
-	color:red
+	color:red;
+	vertical-align:top
+}
+
+.font{
+	margin:0.4% 0% 0% 0%;
+	display:inline-block;
+	font-size:22px;
+	vertical-align:top;
+	
+}
+
+sup{
+	font-size:11px
+	}
+	
+.search{
+	display:inline-block;
+	margin:0% 0% 0% 14%;
+	vertical-align:top
+}
+
+.srch{
+	width:600px;
+	height:34px;
+	border:2px solid #303030;
+	border-radius:25px
+}
+
+.mic{
+	background-color:#303030;
+	margin:0% 0% 0% 0.5%;
+	display:inline-block;
+	font-size:26px;
+	padding:0.3%;
+	border-radius:30px;
+	vertical-align:top
+}
+
+.cre{
+	background-color:#303030;
+	margin:0% 0% 0% 13%;
+	display:inline-block;
+	font-size:22px;
+	padding:0.4%;
+	border-radius:25px;
+	width:6.5%;
+	vertical-align:top
+		
+}
+
+.not{
+	margin:0.4% 0% 0% 1%;
+	display:inline-block;
+	font-size:24px;
+	vertical-align:top
+}
+
+.mar{
+	margin:0% 0% 0% 5%
+}
+
+.span{
+	margin:0% 0% 0% 7%
+}
+
+.img{
+	border-radius:35px;
+	width:40px;
+}
+
+.img1{
+	display:inline-block;
+	margin:0% 0% 0% 1%
+	
+}
+
+aside{
+	padding:1%;
+	width:5%;
+	display:inline-block
+}
+
+.home{
+	padding:0.1;
+	font-size:30px;
+	margin:0% 40% 0% 8%;
+	color:white
+}
+
+.shrt{
+	padding:1%;
+	font-size:30px;
+	margin:45% 30% 0% 0%;
+	color:white;
+}
+
+.shrt2{
+	padding:1%;
+	font-size:30px;
+	margin:45% 38% 0% 0%;
+	color:white;
+}
+
+.shrt1{
+	padding:0.1%;
+	font-size:28px;
+	margin:45% 35% 0% 0%;
+	color:white;
+}
+
+figcaption{
+	font-size:12px;
 }
