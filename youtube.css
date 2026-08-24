@@ -1,0 +1,26 @@
+body{
+	margin:0%;
+	box-sizing:border-box;
+	background-color:#0E0E0E
+}
+
+nav{
+	background-color:yellow;
+	padding:1%;
+	box-sizing:border-box;
+	color:white
+
+}
+
+.icon{
+	font-size:22px;
+	margin:0% 0% 0% 0.8%;
+	display:inline-block
+}
+
+.logo{
+	font-size:22px;
+	margin:0% 0% 0% 0.8%;
+	display:inline-block;
+	color:red
+}
