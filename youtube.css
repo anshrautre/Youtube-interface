@@ -61,15 +61,26 @@ sup{
 }
 
 .cre{
-	background-color:#303030;
 	margin:0% 0% 0% 13%;
 	display:inline-block;
-	font-size:22px;
-	padding:0.4%;
 	border-radius:25px;
-	width:6.5%;
 	vertical-align:top;
-		
+	border:0px solid #303030;
+	font-size:18px;
+	padding:0.8%;
+	background-color:#303030;
+	color:white;
+}
+
+.cpop{
+	padding:1%;
+	margin:	4% 0% 0% 75%;
+	border:0px solid #303030;
+	background-color:#303030;
+	border-radius:5px;
+	color:white;
+	width:10%;
+	font-size:20px
 }
 
 .not{
@@ -185,6 +196,14 @@ figcaption{
 	border-radius:15px;
 }
 
+.v3{
+	display:inline-block;
+	margin:1% 0% 0% 4%;
+	padding:0.5%;
+	background-color:#303030;
+	border-radius:15px;
+}
+
 .color{
 	color:white;
 	font-size:20px;
@@ -238,14 +257,14 @@ figcaption{
 	margin:2% 0% 0% 0%;
 }
 
+.hr1{
+	margin:2% 0% 1% 0%;
+}
+
 .s1{
 	font-size:32px;
 	padding:1%;
 	color:white;
-}
-
-.hr1{
-	margin:0% 0% 0% 0%;
 }
 
 .pop{
@@ -263,5 +282,25 @@ span{
 
 .mar{
 	margin:8% 0% 0% 0%;
+	
+}
+
+.sr1{
+	width:260px;
+	height:350px;
+	font-size:20px
+}
+
+.fig{
+	vertical-align:top;
+	font-weight:bold
+}
+
+.sd1{
+	margin:1% 0% 0% 1%;
+	padding:0.5%;
+	border:1px solid white;
+	display:inline-block;
+	
 	
 }
